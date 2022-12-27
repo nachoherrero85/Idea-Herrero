@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 2,
-            nombre: 'Poster Mercedes',
+            nombre: 'Poster Combi',
             precio: 9500.00,
             imagen: 'img/poster2.jpg'
         },
